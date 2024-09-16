@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white">
 <br>
-<h3> In the past, </h3>
+<h3> Previously, </h3>
 
 <h4> 🔭 I worked on... </h4>
 <h4> 📖 I studied... </h4>
