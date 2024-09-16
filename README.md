@@ -6,6 +6,10 @@
   I majored in Computer Science and Physics. <br>
   I am currently working as a backend engineer at a DX (Digital Transformation) company. </div>
 <br>
+<a href='https://www.linkedin.com/in/hyemin5' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+<a href='https://hyemingcode.tistory.com/' target="_blank"><img alt='tistory' src='https://img.shields.io/badge/Tech_blog-100000?style=for-the-badge&logo=tistory&logoColor=white&labelColor=EA1BB9&color=EA1BB9'/></a>
+
+<br>
 <h3> Currently, </h3>
 
 <h4> 💼 I'm working on... </h4>
